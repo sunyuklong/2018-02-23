@@ -1,0 +1,67 @@
+/* CSS Document */
+
+
+
+img{ display:block;}
+.fl{float: left; _display: inline;}
+.fr{float:right; _display: inline;}
+.l{ width:100%; float:left;}
+.cf{ clear:both;}
+.tl{ text-align:left;}
+.tc{text-align: center; width:100%;}
+.tc img{ margin:0 auto;}
+.tr{ text-align:right;}
+.wl{width: 100%; float: left;}
+.btn{ display:inline-block;}
+.oh{ overflow:hidden;}
+.none{display: none;}
+.red{ color:#d80d20;}
+.btn{ display:inline-block; cursor:pointer; border:none;}
+.pr{ position:relative;}
+.pa{ position:absolute;}
+.fx{ position:fixed;}
+em{ font-style:normal;}
+strong{ font-weight:normal;}
+.cur{ cursor:pointer;}
+.mb10{ margin-bottom:10px;}
+.mb20{ margin-bottom:20px;}
+.blue{color: #06c;}
+.f12{ font-size:12px;}
+.w1200{width:1200px; text-align: left;margin: 0 auto;}
+h6,h5,h4{ font-size:14px;}
+body{ overflow-x:hidden;}
+.bodyhidden{ overflow:hidden;}
+
+/*关于我们*/
+.area01-ban{ background:url(../images/ban_us.jpg) no-repeat center top; height:500px;}
+.area01-ban .txt{ top:235px; font-size:36px; color:#fff;}
+.area01-intro{line-height:26px; padding-bottom:50px;}
+.area01-intro h6{ padding-top:50px; font-size:18px; padding-bottom:22px;}
+.part01-intro{ padding-bottom:30px; color:#868686; line-height:26px;}
+.area01-intro .map{ padding-bottom:30px;}
+.area01-plat{line-height:26px; padding-bottom:65px;}
+.col01-plat{ background:url(../images/us03.png) repeat-x; height:130px; text-align:center;}
+.col01-plat img{ width:298px; margin:0 auto; padding-top:40px;}
+.col02-plat h6{ padding-top:50px; padding-bottom:24px;}
+.col02-plat h6 img{ width:339px;}
+.area01-serv{ height:1305px; background:#f9f9f9;}
+.area01-serv .title{ padding-top:60px; height:56px; font-size:18px; font-weight:bold;}
+.servul li{ padding:0 0 70px 0; width:100%; float:left; background:#fff; margin-bottom:30px;}
+.servul li .grp01{ width:380px;}
+.servul li .grp01 img{ margin:105px auto 0 auto;}
+.servul li .grp02{ width:750px; padding-top:65px;}
+.servul li .grp02 h6{ padding-bottom:12px; font-size:18px; font-weight:normal;}
+.servul li .grp02 .tip{ padding-bottom:22px;}
+.servul li .grp02 .txt{ color:#868686;}
+
+/*联系我们*/
+.area01-contact{ height:500px; background:url(../images/map03.jpg) no-repeat center top;}
+.col01-contact{ padding-top:99px; margin-left:59px; width:530px;}
+.col01-contact h6{ padding-left:67px; height:75px; font-size:24px; font-weight:normal;}
+.part01-contact{ width:100%; padding-bottom:45px;}
+.part01-contact .grp01{ width:70px; padding-top:10px;}
+.part01-contact .grp02{ width:370px; line-height:24px;}
+
+
+
+
